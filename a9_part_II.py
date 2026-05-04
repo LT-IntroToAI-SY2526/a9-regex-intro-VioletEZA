@@ -1,5 +1,5 @@
 # some python libraries we'll be using
-import re, string, calendar
+import re, string, calendar, requests
 from wikipedia import page
 from bs4 import BeautifulSoup
 
